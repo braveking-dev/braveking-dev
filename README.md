@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @braveking-dev
+- 👋 Hi, I’m @braveking-dev ( Hoàng Tiến Dũng )
 - 👀 I’m interested in developing pet project
 - 🌱 I’m currently learning .NET engine
 - 💞️ I’m looking to collaborate on other developer
